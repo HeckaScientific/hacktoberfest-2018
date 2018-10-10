@@ -539,6 +539,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/rwothoromo)
   [![github-alt][github-img]](https://github.com/rwothoromo)
   
+  ### Elizabeth Elias
+- CS Student
+- [![twitter-alt][twitter-img]](https://twitter.com/Lize147)
+  [![github-alt][github-img]](https://github.com/heckascientific)
+  
 ### Evgeniy Vasilev
 
 - Software Developer
